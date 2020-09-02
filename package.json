@@ -1,6 +1,6 @@
 {
   "name": "hypercore-session",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Make a session from a Hypercore that can auto cancel all inflight requests / downloads.",
   "main": "index.js",
   "dependencies": {},
